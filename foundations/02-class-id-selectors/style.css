@@ -1,0 +1,27 @@
+
+
+
+.odd {
+	background-color: hsl(0, 100%, 90%);
+	font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.second_elem {
+	color: blue;
+	font-size: 36px;
+
+}
+
+.forth_elem {
+
+	background-color: hsl(84, 92%,71%);
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
+#elem_specs {
+
+	font-size: 24px;
+
+} 

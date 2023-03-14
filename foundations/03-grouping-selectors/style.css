@@ -1,0 +1,19 @@
+
+
+
+.button {
+
+	font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+	font-size: 28px;
+
+}
+
+.dark_colors{
+
+	color: white;
+	background-color: black;
+}
+
+.light_colors{
+	background-color: yellow;
+}
